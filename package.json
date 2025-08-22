@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/LaurenCummings/mern-store-project/issues"
   },
-  "homepage": "https://github.com/LaurenCummings/mern-store-project#readme"
+  "homepage": "https://github.com/LaurenCummings/mern-store-project#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
