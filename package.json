@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/LaurenCummings/mern-store-project#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongoose": "^8.17.2"
   }
 }
